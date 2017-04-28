@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weatherly</string>
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_message">There was an error. Please try again.</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="network_is_unavailable_message">Network is unavailable!</string>
+    <string name="getting_current_forecast">Getting current forecast</string>
+    <string name="time_zone">Alcatraz Island, CA</string>
+    <string name="time">At 5:18AM it will be</string>
+    <string name="temp_celc">--</string>
+    <string name="progress_bar_refresh">click to refresh progress bar</string>
+</resources>
